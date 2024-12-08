@@ -20,9 +20,7 @@
 ---
 include:
   - board: nrf52840dk_nrf52840
-    shield: sofle_left
     shield: settings_reset
   - board: nrf52840dk_nrf52840
-    shield: sofle_right
     shield: settings_reset
 
